@@ -42,3 +42,9 @@ because of a few reproducibility issues:
 I verified everything by cloning the repository into a fresh folder and running the notebook
 using the `nbconvert --execute` command above. This confirmed that the output was identical
 across runs.
+
+## AI Attribution
+
+Once I went through the initial messy notebook to identify the reproducibility issues, I used 
+Claude just to confirm that I had truly found them all. 
+
